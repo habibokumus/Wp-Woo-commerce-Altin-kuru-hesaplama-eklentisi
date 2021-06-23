@@ -653,11 +653,7 @@ function woocommence_altin_fiyati() {
 			</p>
 			
 			
-			<!--alış Satış Farkı Alış kapalı ise kaldırmanız daha mantıklı--><!--
-			<p class="form-field">
-				<label for="spread"><?php  esc_html_e( 'Alış Satış Yüzdesi', 'woocommence-altin-fiyati' )?></label>
-				<input type="text" class="short" id="spread" name="spread" value="<?php echo $spread; ?>"  />
-			</p>-->
+			
 
 			<p class="form-field">
 				<label for="fee"><?php  esc_html_e( 'İşcilik ', 'woocommence-altin-fiyati' ); echo ' (' . get_woocommerce_currency_symbol() . ')'; ?></label>
