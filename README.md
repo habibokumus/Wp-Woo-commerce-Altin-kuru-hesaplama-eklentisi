@@ -27,5 +27,6 @@ Eğer alım satım kullanıyorsanız:
 ```
 Güncelleme gerektiğinde gelecektir. 
 
-İletişim için : habib@epist.io
+İletişim için : okumushabib@yandex.com
+
 
